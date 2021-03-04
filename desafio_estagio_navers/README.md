@@ -18,7 +18,7 @@ Dentro com sufixo (front) vc encontrara uma aplicação feita com :
   ReactJS
 
 Também segue o link para os desafios de logica: 
-	https://codesandbox.io/s/teste-estagio-template-forked-cegoc?file=/index.html 
+	https://codesandbox.io/s/teste-estagio-template-forked-cegoc
 -
 
 Peço desculpas qualquer erro de português que eu possa te cometido 
