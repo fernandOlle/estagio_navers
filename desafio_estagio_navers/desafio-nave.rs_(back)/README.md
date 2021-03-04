@@ -114,7 +114,7 @@
 	admissão 
 
 
--	Crie uma pasta Projects 
+	Crie uma pasta Projects 
 	
 	request do tipo GET chamda "Get Project" para a url : 
 	' http://localhost:3333/projects/ '
