@@ -18,7 +18,7 @@
 
 ### ` Seção 2.1 - Clonando e instalando dependencias: `
 	Navegue até a pasta onde deseja salvar o projeto.
-	Rode o comando  ` git clone <link do projeto> ` 
+	Rode o comando  ``` git clone <link do projeto> ``` 
 	Ainda no terminal navegue até apasta do projeto e rode o comando  ` code .`
 	dentro do projeto no vs code, abra um terminal e roda o comando  ` npm install `
 	para instalar as dependencias do projeto ( nodemon, pg, knex, express )
